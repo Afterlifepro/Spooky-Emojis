@@ -9,11 +9,11 @@
  😅![😅](./emojis/coldSweat.svg)  
  😛![😛](./emojis/toungeOut.svg)  
  😭![😭](./emojis/cry.svg)  
- 🙄![🙄](./emojis/eyeroll.svg)</span> 
+ 🙄![🙄](./emojis/eyeroll.svg)  
+ 😮![😮](./emojis/shocked.svg)  
+ 😳![😳](./emojis/eyeWide.svg)</span> 
 ## Future Emojis!
 <span style="font-size:100px;">
-😮
-😳
 🤯</span>
 ## How to see them!
 Just run the index.html file, and type some text  

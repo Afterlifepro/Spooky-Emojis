@@ -12,8 +12,8 @@ input.value = "🙂🙃😂🤣😀😅😛😭🙄😮😳🤯"
 // 😛 Witch     toungeOut
 // 😭 Skeleton  cry
 // 🙄 Zombie    eyeroll
-// 😮 Zombie    
-// 😳 Zombie    
+// 😮 Zombie    shocked
+// 😳 Zombie    eyeWide
 // 🤯 Zombie    
 
 function test () {
@@ -27,6 +27,8 @@ function test () {
     htmlout = makeEmoji ( htmlout, "😛", "toungeOut" )
     htmlout = makeEmoji ( htmlout, "😭", "cry" )
     htmlout = makeEmoji ( htmlout, "🙄", "eyeroll" )
+    htmlout = makeEmoji ( htmlout, "😮", "shocked" )
+    htmlout = makeEmoji ( htmlout, "😳", "eyeWide" )
     output.innerHTML = htmlout
 }
 
