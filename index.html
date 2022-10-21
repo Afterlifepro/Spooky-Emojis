@@ -3,17 +3,63 @@
     <head>
         <meta charset="utf-8">
         <title>Emoji Test - Spooky Font</title>
-        <style>
-            img {
-                height: 1em;
-            }
-            p {
-                font-size: 50px;
-            }
-        </style>
+<style>
+body, html {
+    background-color: #121228;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+textarea {
+    font-size: 75px;
+    background-color: #28284f;
+    border-radius: 10px;
+    border-width: 0;
+    color: #fff;
+    width: 90vw;
+    max-width: 90vw;
+    text-align: center;
+    font-family: inherit;
+}
+button {
+    font-size: 75px;
+    background-color: #28284f;
+    border-radius: 10px;
+    border-width: 0;
+    color: #fff;
+}
+p {
+    font-size: 100px;
+    color: #fff;
+    width: 90vw;
+    text-align: center;
+}
+            
+  /* ===== Scrollbar CSS ===== */
+  /* Firefox */
+  * {
+    scrollbar-width: none;
+    scrollbar-color: #31334a #201f2c;
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 0;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #201f2c;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #31334a;
+  }
+
+</style>
     </head>
     <body>
-        <input type="text" name="text" id="textbox">
+        <textarea name="text" id="textbox"></textarea><br>
         <button id="test" onclick="test()">Test</button>
         <p id="text"></p>
         <script src="index.js" async defer></script>
