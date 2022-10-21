@@ -8,9 +8,10 @@
  😀![😀](./emojis/grin.svg)  
  😅![😅](./emojis/coldSweat.svg)  
  😛![😛](./emojis/toungeOut.svg)  
- 😭![😭](./emojis/cry.svg) </span> 
+ 😭![😭](./emojis/cry.svg)  
+ 🙄![🙄](./emojis/eyeroll.svg)</span> 
 ## Future Emojis!
-<span style="font-size:100px;">🙄
+<span style="font-size:100px;">
 😮
 😳
 🤯</span>
