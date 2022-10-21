@@ -11,10 +11,8 @@
  😭![😭](./emojis/cry.svg)  
  🙄![🙄](./emojis/eyeroll.svg)  
  😮![😮](./emojis/shocked.svg)  
- 😳![😳](./emojis/eyeWide.svg)</span> 
-## Future Emojis!
-<span style="font-size:100px;">
-🤯</span>
+ 😳![😳](./emojis/eyeWide.svg)  
+ 🤯![🤯](./emojis/explode.svg)</span> 
 ## How to see them!
 Just run the index.html file, and type some text  
 When you click test, it will show the text  
