@@ -14,8 +14,25 @@
  😳![😳](./emojis/eyeWide.svg)  
  🤯![🤯](./emojis/explode.svg)</span> 
 ## How to see them!
-Just run the index.html file, and type some text  
-When you click test, it will show the text  
-but some emojis will be replaced with the spooky emoji equivelents!
+Just run the [index.html](https://rawcdn.githack.com/Afterlifepro/Spooky-Emojis/cd9b4a619da8f916bd364e1addbd91c28a123f15/index.html) file, and type some text.  
+When you click test, it will show the text.  
+However, some emojis will be replaced with the spooky emoji equivelents!
 ## Will this become a font?
-Hopefuly!!
+Hopefuly!
+## Licence
+***![Licence](./LICENCE)***
+#### Permissions
+Commercial use  
+Modification  
+Distribution  
+Private use  
+
+#### Limitations
+Liability  
+Trademark use  
+Patent use  
+Warranty  
+
+#### Conditions
+License and copyright notice
+State changes 
